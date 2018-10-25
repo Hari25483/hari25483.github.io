@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Hari25483/hari25483.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to my page
+You can know about me, and idiotic friends in this page. 
+Whenever they try to commit suicide because of their breakups, I try to help them getting rid of their idiotic intentions instead of killing them my self. Aw geez.. I always wanted to kill them when they bring up topics about their idiotic senselesss love stories.  
 
 ### Markdown
 
